@@ -20,9 +20,9 @@ lollipop(340, 600, 220);
 }
 function lollipop(x, y, diameter)
 {
-	fill(10, 200, 255);
+	fill(10, 200, 123);
 	rect(x-10, y, 20, 150);
-	fill (235,0,200);
+	fill (12,0,200);
 	ellipse(x,y, diameter, diameter);
 
 }
